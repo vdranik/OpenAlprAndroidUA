@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Desktop\222\OpenAlprAndroidUA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="11bcf5b852e95c0d9b199e86f55871ef66f3593a">
+        <dex dex="C:\Users\User\Desktop\222\OpenAlprAndroidUA\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_315dbc71c22ceef486fe547b17fa76bedd1819a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\222\OpenAlprAndroidUA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="1c39b8346aed6699f2be7d17dbad81392b7c3fcc">
+        <dex dex="C:\Users\User\Desktop\222\OpenAlprAndroidUA\app\build\intermediates\pre-dexed\debug\instant-run_517c9d8e5dbfeaeada5c966794525af0a0ccb890.jar" />
+    </item>
+
+</items>
