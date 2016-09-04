@@ -1,3 +1,6 @@
+
+#This project - adaptation [OpenAlprDroidApp](https://github.com/sujaybhowmick/OpenAlprDroidApp) project to recognize Ukrainian numbers
+
 # Reference Android App demonstrating the use of [Automated License Plate Recognition library](http://www.openalpr.com/)
 
 ## How to build App APK
